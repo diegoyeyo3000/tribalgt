@@ -6,7 +6,7 @@
  - Run `npm install` or `yarn` in your root project folder
  - Create database in mysql server, using "database\tribalgt.sql".
  - Change database configurations, to access mysq, in file "common\config\env.config.js".
- - 
+ - See `documentation\Api-s Docs.docx` to see how it work 
 
 ## Usage
 
